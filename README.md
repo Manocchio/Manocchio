@@ -9,9 +9,9 @@ Curto resolver problemas do cotidiano usando a tecnologia, um entusiasta.
 ```kotlin
 object **Manocchio** {
  val name = "Gustavo Manocchio"
- val acknowledgements = "Técnico em Desenvolvimento de SIstemas"
+ val acknowledgements = "Técnico em Desenvolvimento de Sistemas"
  
- val primarySkillset = "listOf("Mobile", "Backend", "Frontend")"
+ val primarySkillset = listOf("Mobile", "Backend", "Frontend")
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React", "React Native", "SQL", "PHP", "C#") 
 
 }
