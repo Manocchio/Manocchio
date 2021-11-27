@@ -7,12 +7,12 @@ Curto resolver problemas do cotidiano usando a tecnologia, um entusiasta.
 <img align="right" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Manocchio** {
+ val name = "Gustavo Manocchio"
+ val acknowledgements = "Técnico em Desenvolvimento de SIstemas"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val primarySkillset = "listOf("Mobile", "Backend", "Frontend")"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React", "React Native", "SQL", "PHP", "C#") 
 
 }
 ```
