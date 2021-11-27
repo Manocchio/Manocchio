@@ -31,13 +31,15 @@ object Manocchio {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manocchio&theme=dracula&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manocchio&show_icons=true&theme=dracula&line_height=27" alt="Manocchio github stats"/>
 </a>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manocchio&theme=dracula&hide_langs_below=1" />
+</a>
+
 
 [instagram]: https://www.instagram.com/not_manoko/
 [linkedin]: https://www.linkedin.com/in/gustavo-manocchio-2992481b1/
