@@ -7,7 +7,7 @@ Curto resolver problemas do cotidiano usando a tecnologia, um entusiasta.
 <img align="right" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 ```kotlin
-object **Manocchio** {
+object Manocchio {
  val name = "Gustavo Manocchio"
  val acknowledgements = "Técnico em Desenvolvimento de Sistemas"
  
